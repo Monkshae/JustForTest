@@ -1,0 +1,13 @@
+PODS:
+  - GCPlaceholderTextView (1.0.1)
+  - IQKeyboardManager (3.3.4)
+
+DEPENDENCIES:
+  - GCPlaceholderTextView
+  - IQKeyboardManager
+
+SPEC CHECKSUMS:
+  GCPlaceholderTextView: dec36f63092602c6b5df76e2ce43fa22671b9d12
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+
+COCOAPODS: 0.39.0
